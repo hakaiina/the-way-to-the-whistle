@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Obj_foot","order":1,"path":"objects/Obj_foot/Obj_foot.yy",},
+    {"name":"ParticleSystem1","order":2,"path":"particles/ParticleSystem1/ParticleSystem1.yy",},
+    {"name":"rm_foot","order":1,"path":"rooms/rm_foot/rm_foot.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"spr_cancer_rev","order":2,"path":"sprites/spr_cancer_rev/spr_cancer_rev.yy",},
+    {"name":"spr_foot","order":1,"path":"sprites/spr_foot/spr_foot.yy",},
+  ],
+}
