@@ -1,27 +1,27 @@
 {
   "$GMSprite":"",
-  "%Name":"cancer",
+  "%Name":"spr_foot",
   "bboxMode":0,
-  "bbox_bottom":77,
-  "bbox_left":3,
-  "bbox_right":92,
-  "bbox_top":12,
+  "bbox_bottom":269,
+  "bbox_left":0,
+  "bbox_right":479,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"d74988a9-4b2b-45ed-9247-50dd15b73e0b","name":"d74988a9-4b2b-45ed-9247-50dd15b73e0b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"b848533a-c00e-4143-8149-d82422d2dace","name":"b848533a-c00e-4143-8149-d82422d2dace","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":96,
+  "height":270,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"1484b7b7-22e1-4dc2-9fcc-3bdb677c4a43","blendMode":0,"displayName":"default","isLocked":false,"name":"1484b7b7-22e1-4dc2-9fcc-3bdb677c4a43","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"f9e7365c-2d36-4ca3-a9eb-ccb4a131aa2c","blendMode":0,"displayName":"default","isLocked":false,"name":"f9e7365c-2d36-4ca3-a9eb-ccb4a131aa2c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"cancer",
+  "name":"spr_foot",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"cancer",
+    "%Name":"spr_foot",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"cancer",
+    "name":"spr_foot",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d74988a9-4b2b-45ed-9247-50dd15b73e0b","path":"sprites/cancer/cancer.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7622b5cb-0210-431e-91dc-60d03d06f1a7","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b848533a-c00e-4143-8149-d82422d2dace","path":"sprites/spr_foot/spr_foot.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b1736b39-9591-43e9-a52a-fee25d2dc9b4","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":96,
+  "width":480,
 }
